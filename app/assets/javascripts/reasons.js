@@ -1,9 +1,11 @@
 $(document).ready(function() {
 	reasons = ["Because you support me in everything I do.",
-								"Because you're there when I need you most",
+								"Because you're there to talk to when I need you most",
 								"Because your french toast is still the best",
 								"Because most of my clothes are still ones you've picked out for me",
 								"Because you always have my back",
+								"Because just think what my manners would have been without you",
+								"Because your genes just keep on keepin me skinny",
 								"Because of all the piano lessons, tennis lessons, drum lessons, and life lessons that've made me who I am",
 								"Because I secretly love the ballet"
 								];
