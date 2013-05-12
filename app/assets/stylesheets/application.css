@@ -218,7 +218,7 @@ mark {
 
 p,
 pre {
-    margin: 1em 0;
+    margin: 0 0;
 }
 
 /*
@@ -525,10 +525,17 @@ html{
 /*	background-color: #222;*/
 	background-size: 50%;
 	background-repeat:no-repeat;
-	background-position: center 50px;
+	background-position: center 100px;
 	color: white;
 }
 
+p {
+	color: red;
+	font-size: 3em;
+	font-style: bold;
+	text-align: center;
+	font-family: 'The Girl Next Door', cursive;
+} 
 h1 {
 	text-align: center;
 	font-size: 40px;
