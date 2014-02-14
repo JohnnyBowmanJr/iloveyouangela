@@ -1,20 +1,23 @@
 $(document).ready(function() {
-	reasons = ["Because you support me in everything I do.",
-								"Because you're there to talk to when I need you most",
-								"Because your french toast is still the best",
-								"Because most of my clothes are still ones you've picked out for me",
-								"Because you always have my back",
-								"Because just think what my manners would have been without you",
-								"Because your genes just keep on keepin me skinny",
-								"Because of all the piano lessons, tennis lessons, drum lessons, and life lessons that've made me who I am",
-								"Because I secretly love the ballet"
+	reasons = ["Because Pussy Heat.",
+								"Dem lips",
+								"Because we're very special best friends",
+								"Because one skeptical, egotistical soul recognizes another",
+								"Did I mention Pussy Heat? Pussy Heat.",
+								"Because books should be written about your mind/body connection. Or lack thereof.",
+								"Because snuggles.",
+								"Because you have all my secrets. And you still love me.",
+								"Because I can't control it",
+								"Because of your Union Square, your Kirkland couch, and Astoria lookout point horcruxes.",
+								"Because nighttime giggles"
 								];
 
 	buttonText = ["Obviously",
 								"I knew that",
 								"Well I suppose so",
 								"Keep it coming",
-								"Mmmmmmhhhmmmm"
+								"Mmmmmmhhhmmmm",
+								"Yup. Got it."
 								];
 
 	var randomReason = Math.floor(Math.random() * reasons.length);
